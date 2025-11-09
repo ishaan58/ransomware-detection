@@ -1,0 +1,22 @@
+file,total_events,malware_detected,malware_percentage,KNOWN RANSOMWARE PATTERN,BENIGN,HIGH-CONFIDENCE RANSOMWARE,NOVEL/UNKNOWN ANOMALY
+wannacry.csv,247,164,66.4,151,83,8,5
+keshav_logs.csv,12535,878,7.0,11657,594,251,33
+tanay_logs.csv,38200,2823,7.39,35377,1996,805,22
+x.csv,1226,121,9.87,1105,62,59
+wannacry.csv,247,164,66.4,151,83,8,5
+keshav_logs.csv,12535,878,7.0,11657,594,251,33
+tanay_logs.csv,38200,2823,7.39,35377,1996,805,22
+x.csv,1226,121,9.87,1105,62,59
+wannacry.csv,247,164,66.4,151,83,8,5
+keshav_logs.csv,12535,878,7.0,11657,594,251,33
+tanay_logs.csv,38200,2823,7.39,35377,1996,805,22
+x.csv,1226,121,9.87,1105,62,59
+wannacry.csv,247,164,66.4,151,83,8,5
+keshav_logs.csv,12535,878,7.0,11657,594,251,33
+tanay_logs.csv,38200,2823,7.39,35377,1996,805,22
+x.csv,1226,121,9.87,1105,62,59
+wannacry.csv,247,164,66.4,151,83,8,5
+keshav_logs.csv,12535,878,7.0,11657,594,251,33
+tanay_logs.csv,38200,2823,7.39,35377,1996,805,22
+x.csv,1226,121,9.87,1105,62,59
+test_fake_labeled.csv,140,40,28.57,100,33,6,1
