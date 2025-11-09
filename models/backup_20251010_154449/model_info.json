@@ -1,0 +1,20 @@
+{
+  "trained_on": [
+    "keshav_logs.csv",
+    "tanay_logs.csv",
+    "x.csv"
+  ],
+  "timestamp": "20251010_145101",
+  "features": [
+    "Level",
+    "Source",
+    "Task Category",
+    "Event ID",
+    "hour",
+    "dayofweek"
+  ],
+  "model": "IsolationForest",
+  "contamination": 0.02,
+  "pca_components": 20,
+  "hasher_features": 256
+}

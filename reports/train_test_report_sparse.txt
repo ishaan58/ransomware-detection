@@ -1,0 +1,12 @@
+Train AUC: 0.9957760439493848
+Test AUC: 0.9958212840189694
+
+Classification Report (Test):
+              precision    recall  f1-score   support
+
+           0       1.00      0.97      0.98    100032
+           1       0.75      0.97      0.84      9968
+
+    accuracy                           0.97    110000
+   macro avg       0.87      0.97      0.91    110000
+weighted avg       0.97      0.97      0.97    110000

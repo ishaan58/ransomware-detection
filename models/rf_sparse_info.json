@@ -1,0 +1,5 @@
+{
+  "features_hashed": 513,
+  "rows": 52208,
+  "model": "RandomForest (FeatureHasher)"
+}

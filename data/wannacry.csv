@@ -1,0 +1,373 @@
+﻿Level,Date and Time,Source,Event ID,Task Category
+Warning,11/9/2025 4:21:52 PM,Microsoft-Windows-DistributedCOM,10016,None,"The machine-default permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{C2F03A33-21F5-47FA-B4BB-156362A2F239}
+ and APPID 
+{316CDED5-E4AE-4B15-9113-7055D84DCC97}
+ to the user DESKTOP-9TLL92I\there SID (S-1-5-21-3411010233-2215703566-297523676-1001) from address LocalHost (Using LRPC) running in the application container Microsoft.Windows.ShellExperienceHost_10.0.19041.3636_neutral_neutral_cw5n1h2txyewy SID (S-1-15-2-155514346-2573954481-755741238-1654018636-1233331829-3075935687-2861478708). This security permission can be modified using the Component Services administrative tool."
+Warning,11/9/2025 4:21:28 PM,Microsoft-Windows-DistributedCOM,10016,None,"The machine-default permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{C2F03A33-21F5-47FA-B4BB-156362A2F239}
+ and APPID 
+{316CDED5-E4AE-4B15-9113-7055D84DCC97}
+ to the user DESKTOP-9TLL92I\there SID (S-1-5-21-3411010233-2215703566-297523676-1001) from address LocalHost (Using LRPC) running in the application container Microsoft.Windows.ShellExperienceHost_10.0.19041.3636_neutral_neutral_cw5n1h2txyewy SID (S-1-15-2-155514346-2573954481-755741238-1654018636-1233331829-3075935687-2861478708). This security permission can be modified using the Component Services administrative tool."
+Information,11/9/2025 4:18:53 PM,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information,11/9/2025 4:16:27 PM,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information,11/9/2025 4:15:36 PM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Users\there\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information,11/9/2025 4:14:48 PM,Service Control Manager,7040,None,The start type of the Remote Access Connection Manager service was changed from demand start to auto start.
+Information,11/9/2025 4:14:48 PM,Service Control Manager,7040,None,The start type of the Remote Access IP ARP Driver service was changed from demand start to auto start.
+Information,11/9/2025 4:14:37 PM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Users\there\AppData\Local\Packages\Microsoft.Windows.Photos_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information,11/9/2025 4:14:24 PM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Users\there\AppData\Local\Packages\Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information,11/9/2025 4:14:24 PM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Users\there\AppData\Local\Packages\microsoft.windowscommunicationsapps_8wekyb3d8bbwe\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Warning,11/9/2025 4:14:15 PM,Microsoft-Windows-DistributedCOM,10016,None,"The machine-default permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{C2F03A33-21F5-47FA-B4BB-156362A2F239}
+ and APPID 
+{316CDED5-E4AE-4B15-9113-7055D84DCC97}
+ to the user DESKTOP-9TLL92I\there SID (S-1-5-21-3411010233-2215703566-297523676-1001) from address LocalHost (Using LRPC) running in the application container Microsoft.Windows.ShellExperienceHost_10.0.19041.3636_neutral_neutral_cw5n1h2txyewy SID (S-1-15-2-155514346-2573954481-755741238-1654018636-1233331829-3075935687-2861478708). This security permission can be modified using the Component Services administrative tool."
+Information,11/9/2025 4:14:14 PM,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information,11/9/2025 4:12:44 PM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Users\there\AppData\Local\Packages\Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information,11/9/2025 4:12:40 PM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Users\there\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information,11/9/2025 4:12:36 PM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Users\there\AppData\Local\Packages\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information,11/9/2025 4:12:36 PM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Users\there\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information,11/9/2025 4:12:20 PM,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2025‎-‎11‎-‎09T10:42:20.076743700Z from ‎2025‎-‎11‎-‎09T10:42:20.076743700Z.
+
+Change Reason: System time adjusted to the new time zone.
+Process: '\Device\HarddiskVolume2\Windows\System32\dllhost.exe' (PID 4588)."
+Information,11/9/2025 4:12:20 PM,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is -330.
+Information,11/9/2025 4:12:20 PM,Microsoft-Windows-Kernel-General,22,(8),The time zone bias has changed to -330 from 480.
+Information,11/9/2025 4:12:01 PM,Microsoft-Windows-GroupPolicy,1501,None,The Group Policy settings for the user were processed successfully. There were no changes detected since the last successful processing of Group Policy.
+Information,11/9/2025 4:12:01 PM,Microsoft-Windows-Winlogon,7001,(1101),User Logon Notification for Customer Experience Improvement Program
+Information,11/9/2025 4:11:59 PM,Microsoft-Windows-Winlogon,7002,(1102),User Logoff Notification for Customer Experience Improvement Program
+Information,11/9/2025 4:05:42 PM,Service Control Manager,7040,None,The start type of the Windows Modules Installer service was changed from auto start to demand start.
+Information,11/9/2025 4:01:48 PM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Users\defaultuser0\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Error,11/9/2025 4:01:09 PM,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x8024200B: 2022-11 Update for Windows 10 Version 22H2 for x64-based Systems (KB5020683).
+Information,11/9/2025 4:00:28 PM,Service Control Manager,7040,None,The start type of the Windows Modules Installer service was changed from demand start to auto start.
+Information,11/9/2025 4:00:27 PM,Service Control Manager,7040,None,The start type of the Windows Modules Installer service was changed from auto start to demand start.
+Information,11/9/2025 3:59:08 PM,Service Control Manager,7040,None,The start type of the Windows Modules Installer service was changed from demand start to auto start.
+Information,11/9/2025 3:59:06 PM,Microsoft-Windows-WindowsUpdateClient,43,Windows Update Agent,Installation Started: Windows has started installing the following update: 2022-11 Update for Windows 10 Version 22H2 for x64-based Systems (KB5020683)
+Information,11/9/2025 3:57:44 PM,Microsoft-Windows-WindowsUpdateClient,44,Windows Update Agent,Windows Update started downloading an update.
+Information,11/9/2025 3:57:40 PM,Service Control Manager,7040,None,The start type of the Delivery Optimization service was changed from demand start to auto start.
+Information,11/9/2025 3:57:33 PM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \SystemRoot\System32\config\DRIVERS was cleared updating 20342 keys and creating 903 modified pages.
+Information,11/9/2025 3:55:50 PM,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from auto start to demand start.
+Information,11/9/2025 3:54:32 PM,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2025‎-‎11‎-‎09T10:24:32.084497100Z from ‎2025‎-‎11‎-‎09T10:24:32.084497100Z.
+
+Change Reason: System time adjusted to the new time zone.
+Process: '\Device\HarddiskVolume2\Windows\System32\CloudExperienceHostBroker.exe' (PID 1624)."
+Information,11/9/2025 3:54:32 PM,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is 480.
+Information,11/9/2025 3:54:31 PM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Users\Default\NTUSER.DAT was cleared updating 575 keys and creating 34 modified pages.
+Warning,11/9/2025 3:54:18 PM,Microsoft-Windows-DistributedCOM,10016,None,"The application-specific permission settings do not grant Local Launch permission for the COM Server application with CLSID 
+Windows.SecurityCenter.WscDataProtection
+ and APPID 
+Unavailable
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool."
+Information,11/9/2025 3:54:13 PM,Service Control Manager,7040,None,The start type of the Windows Modules Installer service was changed from auto start to demand start.
+Information,11/9/2025 3:54:13 PM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Windows\System32\SMI\Store\Machine\SCHEMA.DAT was cleared updating 15763 keys and creating 2682 modified pages.
+Information,11/9/2025 3:54:05 PM,Service Control Manager,7040,None,The start type of the Windows Modules Installer service was changed from demand start to auto start.
+Information,11/9/2025 3:53:59 PM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Users\defaultuser0\AppData\Local\Packages\Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Warning,11/9/2025 3:53:38 PM,Microsoft-Windows-DistributedCOM,10016,None,"The machine-default permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{C2F03A33-21F5-47FA-B4BB-156362A2F239}
+ and APPID 
+{316CDED5-E4AE-4B15-9113-7055D84DCC97}
+ to the user DESKTOP-9TLL92I\defaultuser0 SID (S-1-5-21-3411010233-2215703566-297523676-1000) from address LocalHost (Using LRPC) running in the application container Microsoft.Windows.ShellExperienceHost_10.0.19041.3636_neutral_neutral_cw5n1h2txyewy SID (S-1-15-2-155514346-2573954481-755741238-1654018636-1233331829-3075935687-2861478708). This security permission can be modified using the Component Services administrative tool."
+Information,11/9/2025 3:53:14 PM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Users\defaultuser0\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information,11/9/2025 3:52:42 PM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Users\defaultuser0\AppData\Local\Packages\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy\Settings\settings.dat was cleared updating 3 keys and creating 1 modified pages.
+Information,11/9/2025 3:52:42 PM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Windows\AppCompat\Programs\Amcache.hve was cleared updating 0 keys and creating 0 modified pages.
+Information,11/9/2025 3:52:29 PM,Microsoft-Windows-GroupPolicy,1501,None,The Group Policy settings for the user were processed successfully. There were no changes detected since the last successful processing of Group Policy.
+Information,11/9/2025 3:52:28 PM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Users\defaultuser0\AppData\Local\Microsoft\Windows\UsrClass.dat was cleared updating 6 keys and creating 1 modified pages.
+Information,11/9/2025 3:52:28 PM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Users\defaultuser0\ntuser.dat was cleared updating 584 keys and creating 32 modified pages.
+Information,11/9/2025 3:52:28 PM,Microsoft-Windows-Winlogon,7001,(1101),User Logon Notification for Customer Experience Improvement Program
+Information,11/9/2025 3:52:19 PM,Microsoft-Windows-GroupPolicy,1500,None,The Group Policy settings for the computer were processed successfully. There were no changes detected since the last successful processing of Group Policy.
+Information,11/9/2025 3:52:17 PM,Service Control Manager,7040,None,The start type of the Windows Modules Installer service was changed from auto start to demand start.
+Information,11/9/2025 3:52:11 PM,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2025‎-‎11‎-‎09T10:22:11.722342000Z from ‎2025‎-‎11‎-‎09T10:22:11.700349100Z.
+
+Change Reason: An application or system component changed the time.
+Process: '\Device\HarddiskVolume2\Windows\System32\svchost.exe' (PID 1268)."
+Information,11/9/2025 3:52:11 PM,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is 480.
+Information,11/9/2025 3:52:11 PM,Microsoft-Windows-TPM-WMI,1281,None,This event triggers the TBS device identifier generation.
+Information,11/9/2025 3:52:07 PM,Service Control Manager,7026,None,"The following boot-start or system-start driver(s) did not load: 
+dam"
+Information,11/9/2025 3:52:06 PM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Windows\System32\config\COMPONENTS was cleared updating 56474 keys and creating 6504 modified pages.
+Information,11/9/2025 3:52:03 PM,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2025‎-‎11‎-‎09T10:22:03.824534800Z from ‎2025‎-‎11‎-‎09T10:22:03.819993900Z.
+
+Change Reason: An application or system component changed the time.
+Process: '\Device\HarddiskVolume2\Windows\System32\svchost.exe' (PID 1268)."
+Information,11/9/2025 3:52:03 PM,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is 480.
+Information,11/9/2025 3:52:03 PM,Microsoft-Windows-Time-Service,35,None,"The time service is now synchronizing the system time with the time source time.windows.com,0x9 (ntp.m|0x9|0.0.0.0:123->40.81.94.65:123) with reference id 1096700200. Current local stratum number is 4."
+Warning,11/9/2025 3:52:03 PM,Microsoft-Windows-Time-Service,52,None,The time service has set the time with offset 48598 seconds.
+Information,11/9/2025 3:52:03 PM,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2025‎-‎11‎-‎09T10:22:03.819993900Z from ‎2025‎-‎11‎-‎09T23:52:01.938861600Z.
+
+Change Reason: An application or system component changed the time.
+Process: '\Device\HarddiskVolume2\Windows\System32\svchost.exe' (PID 1268)."
+Information,11/9/2025 3:52:03 PM,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is 480.
+Information,11/10/2025 5:21:59 AM,Microsoft-Windows-Kernel-General,1,(5),"The system time has changed to ‎2025‎-‎11‎-‎09T23:51:59.569578000Z from ‎2025‎-‎11‎-‎09T23:51:59.569578000Z.
+
+Change Reason: System time adjusted to the new time zone.
+Process: '\Device\HarddiskVolume2\Windows\System32\oobe\msoobe.exe' (PID 1060)."
+Information,11/10/2025 5:21:59 AM,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is 480.
+Information,11/10/2025 5:21:55 AM,Microsoft-Windows-Time-Service,37,None,"The time provider NtpClient is currently receiving valid time data from time.windows.com,0x9 (ntp.m|0x9|0.0.0.0:123->40.81.94.65:123)."
+Information,11/10/2025 5:21:54 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'bindflt' (10.0, ‎2016‎-‎11‎-‎30T18:47:51.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,11/10/2025 5:21:54 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'storqosflt' (10.0, ‎2007‎-‎04‎-‎09T10:08:30.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,11/10/2025 5:21:54 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'CldFlt' (10.0, ‎2084‎-‎11‎-‎24T23:15:59.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,11/10/2025 5:21:54 AM,Microsoft-Windows-FilterManager,1,None,"File System Filter 'CldFlt' (Version 10.0, ‎2084‎-‎11‎-‎24T23:15:59.000000000Z) unloaded successfully."
+Information,11/10/2025 5:21:54 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'CldFlt' (10.0, ‎2084‎-‎11‎-‎24T23:15:59.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,11/10/2025 5:21:54 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'wcifs' (10.0, ‎2004‎-‎03‎-‎22T09:56:15.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,11/10/2025 5:21:54 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'luafv' (10.0, ‎2062‎-‎02‎-‎02T19:11:58.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,11/10/2025 5:21:53 AM,Microsoft-Windows-DHCPv6-Client,51046,Service State Event,DHCPv6 client service is started
+Information,11/10/2025 5:21:52 AM,Microsoft-Windows-Dhcp-Client,50103,Service State Event,DHCPv4 client registered for shutdown notification
+Information,11/10/2025 5:21:52 AM,Microsoft-Windows-Dhcp-Client,50036,Service State Event,DHCPv4 client service is started
+Information,11/10/2025 5:21:37 AM,Microsoft-Windows-Directory-Services-SAM,16983,None,"The security account manager is now logging periodic summary events for remote clients that call legacy password change or set RPC methods.
+
+For more information please see https://go.microsoft.com/fwlink/?linkid=2150956.
+"
+Information,11/10/2025 5:21:37 AM,Microsoft-Windows-Directory-Services-SAM,16977,None,"The domain is configured with the following minimum password length-related settings.
+
+MinimumPasswordLength: 0
+
+RelaxMinimumPasswordLengthLimits: 0
+
+MinimumPasswordLengthAudit: -1
+
+For more information see https://go.microsoft.com/fwlink/?LinkId=2097191.
+"
+Information,11/10/2025 5:21:37 AM,Microsoft-Windows-Directory-Services-SAM,16962,None,"Remote calls to the SAM database are being restricted using the default security descriptor: O:SYG:SYD:(A;;RC;;;BA).
+For more information please see http://go.microsoft.com/fwlink/?LinkId=787651."
+Information,11/10/2025 5:21:36 AM,Microsoft-Windows-Wininit,14,None,"Credential Guard configuration: 0x0, 0"
+Information,11/10/2025 5:21:35 AM,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is 480.
+Information,11/10/2025 5:21:34 AM,Microsoft-Windows-Ntfs,98,None,Volume \\?\Volume{8cf873f0-0000-0000-0000-c05d0c000000} (\Device\HarddiskVolume3) is healthy.  No action is needed.
+Information,11/10/2025 5:21:33 AM,Microsoft-Windows-Kernel-Power,521,(220),Active battery count change.
+Information,11/10/2025 5:21:33 AM,Microsoft-Windows-Kernel-Power,521,(220),Active battery count change.
+Information,11/10/2025 5:21:33 AM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 0 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 2994
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,11/10/2025 5:21:32 AM,Microsoft-Windows-Kernel-Power,172,(203),"Connectivity state in standby: Disconnected, Reason: NIC compliance"
+Information,11/10/2025 5:21:32 AM,Microsoft-Windows-Ntfs,98,None,Volume \\?\Volume{8cf873f0-0000-0000-0000-100000000000} (\Device\HarddiskVolume1) is healthy.  No action is needed.
+Information,11/10/2025 5:21:32 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'npsvctrig' (10.0, ‎2025‎-‎01‎-‎05T18:41:12.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,11/10/2025 5:21:32 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'FileCrypt' (10.0, ‎2002‎-‎03‎-‎01T03:12:42.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,11/10/2025 5:21:32 AM,Microsoft-Windows-Ntfs,98,None,Volume C: (\Device\HarddiskVolume2) is healthy.  No action is needed.
+Information,11/10/2025 5:21:32 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'WdFilter' (10.0, ‎2066‎-‎04‎-‎08T20:52:09.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,11/10/2025 5:21:32 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'Wof' (10.0, ‎2090‎-‎03‎-‎16T10:56:17.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,11/10/2025 5:21:32 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'FileInfo' (10.0, ‎2062‎-‎12‎-‎22T21:21:06.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,11/10/2025 5:21:30 AM,Microsoft-Windows-HAL,16,None,The iommu fault reporting has been initialized.
+Information,11/10/2025 5:21:30 AM,Microsoft-Windows-Kernel-General,20,(6),"The leap second configuration has been updated.
+Reason: Leap second data initialized from registry during boot
+Leap seconds enabled: true
+New leap second count: 0
+Old leap second count: 0"
+Information,11/10/2025 5:21:30 AM,Microsoft-Windows-Kernel-Boot,32,(58),The bootmgr spent 0 ms waiting for user input.
+Information,11/10/2025 5:21:30 AM,Microsoft-Windows-Kernel-Boot,18,(57),There are 0x1 boot options on this system.
+Information,11/10/2025 5:21:30 AM,Microsoft-Windows-Kernel-Boot,27,(33),The boot type was 0x0.
+Information,11/10/2025 5:21:30 AM,Microsoft-Windows-Kernel-Boot,25,(32),The boot menu policy was 0x1.
+Information,11/10/2025 5:21:30 AM,Microsoft-Windows-Kernel-Boot,20,(31),The last shutdown's success status was true. The last boot's success status was true.
+Information,11/10/2025 5:21:30 AM,Microsoft-Windows-Kernel-Boot,153,(62),Virtualization-based security (policies: 0) is disabled.
+Information,11/10/2025 5:21:30 AM,Microsoft-Windows-Kernel-General,12,(1),The operating system started at system time ‎2025‎-‎11‎-‎09T23:51:30.500000000Z.
+Information,11/10/2025 5:21:17 AM,Microsoft-Windows-Kernel-General,13,(2),The operating system is shutting down at system time ‎2025‎-‎11‎-‎09T23:51:17.855644400Z.
+Information,11/10/2025 5:21:16 AM,Microsoft-Windows-Kernel-Power,109,(103),"The kernel power manager has initiated a shutdown transition.
+
+Shutdown Reason: Kernel API"
+Information,11/10/2025 5:21:50 AM,EventLog,6013,None,The system uptime is 19 seconds.
+Information,11/10/2025 5:21:50 AM,EventLog,6005,None,The Event log service was started.
+Information,11/10/2025 5:21:50 AM,EventLog,6009,None,Microsoft (R) Windows (R) 10.00. 19045  Multiprocessor Free.
+Error,11/10/2025 5:21:15 AM,Service Control Manager,7023,None,"The Windows Search service terminated with the following error: 
+A system shutdown is in progress."
+Information,11/10/2025 5:21:50 AM,EventLog,6011,None,The NetBIOS name and DNS host name of this machine have been changed from WIN-EOOET31VCDU to DESKTOP-9TLL92I.
+Information,11/10/2025 5:21:13 AM,Microsoft-Windows-Dhcp-Client,50037,Service State Event,DHCPv4 client service is stopped. ShutDown Flag value is 1
+Information,11/10/2025 5:21:13 AM,Microsoft-Windows-Dhcp-Client,50106,Service State Event,DHCPv4 is waiting on DHCPv6 service to stop
+Information,11/10/2025 5:21:12 AM,Microsoft-Windows-DHCPv6-Client,51057,Service State Event,DHCPv6 client service stop is almost done.DHCP Context Ref count is 1
+Information,11/10/2025 5:21:12 AM,Microsoft-Windows-DHCPv6-Client,51047,Service State Event,DHCPv6 client service is stopped. ShutDown Flag value is 1
+Information,11/10/2025 5:21:13 AM,EventLog,6006,None,The Event log service was stopped.
+Information,11/10/2025 5:21:12 AM,Microsoft-Windows-Dhcp-Client,50105,Service State Event,DHCPv4 client ProcessDHCPRequestForever received TERMINATE_EVENT
+Information,11/10/2025 5:21:12 AM,Microsoft-Windows-Dhcp-Client,50104,Service State Event,DHCPv4 client received shutdown notification
+Information,11/10/2025 5:21:05 AM,Service Control Manager,7045,None,"A service was installed in the system.
+
+Service Name:  Microsoft Edge Elevation Service (MicrosoftEdgeElevationService)
+Service File Name:  ""C:\Program Files (x86)\Microsoft\Edge\Application\92.0.902.67\elevation_service.exe""
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  LocalSystem"
+Information,11/10/2025 5:21:03 AM,User32,1074,None,"The process C:\Windows\system32\winlogon.exe (MINWINPC) has initiated the restart of computer WIN-EOOET31VCDU on behalf of user NT AUTHORITY\SYSTEM for the following reason: Operating System: Upgrade (Planned)
+ Reason Code: 0x80020003
+ Shutdown Type: restart
+ Comment: "
+Information,11/10/2025 5:21:01 AM,Microsoft-Windows-Setup,2004,OS information,Successfully logged OS information
+Information,11/10/2025 5:21:01 AM,Microsoft-Windows-Setup,2003,Setup information,Successfully logged Setup information
+Information,11/10/2025 5:20:58 AM,Microsoft-Windows-UserModePowerService,22,(18),Reapply power settings upon completion of the provisioning engine's turn 1
+Error,11/10/2025 5:20:40 AM,Service Control Manager,7030,None,"The Printer Extensions and Notifications service is marked as an interactive service.  However, the system is configured to not allow interactive services.  This service may not function properly."
+Information,11/10/2025 5:20:40 AM,Service Control Manager,7045,None,"A service was installed in the system.
+
+Service Name:  Printer Extensions and Notifications
+Service File Name:  %SystemRoot%\system32\svchost.exe -k print
+Service Type:  user mode service
+Service Start Type:  demand start
+Service Account:  LocalSystem"
+Information,11/10/2025 5:20:38 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Provisioning\Microsoft-Desktop-Provisioning-Sequence.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:20:20 AM,Microsoft-Windows-Ntfs,98,None,Volume \\?\Volume{8cf873f0-0000-0000-0000-c05d0c000000} (\Device\HarddiskVolume3) is healthy.  No action is needed.
+Information,11/10/2025 5:20:17 AM,Microsoft-Windows-Ntfs,98,None,Volume \\?\Volume{8cf873f0-0000-0000-0000-c05d0c000000} (\Device\HarddiskVolume3) is healthy.  No action is needed.
+Information,11/10/2025 5:20:05 AM,Virtual Disk Service,3,None,Service started.
+Information,11/10/2025 5:19:57 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.ZuneVideo_10.19071.19011.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Error,11/10/2025 5:19:55 AM,Microsoft-Windows-DistributedCOM,10010,None,The server {7D096C5F-AC08-4F1F-BEB7-5C22C517CE39} did not register with DCOM within the required timeout.
+Information,11/10/2025 5:19:54 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.ZuneMusic_10.19071.19011.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:19:51 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.YourPhone_0.19051.7.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:19:50 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.XboxSpeechToTextOverlay_1.17.29001.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:19:49 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.XboxIdentityProvider_12.50.6001.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Error,11/10/2025 5:19:48 AM,Service Control Manager,7023,None,"The Network List Service service terminated with the following error: 
+The device is not ready."
+Information,11/10/2025 5:19:48 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.XboxGamingOverlay_2.34.28001.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Error,11/10/2025 5:19:47 AM,Microsoft-Windows-DistributedCOM,10010,None,The server {A47979D2-C419-11D9-A5B4-001185AD2B89} did not register with DCOM within the required timeout.
+Information,11/10/2025 5:19:47 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.XboxGameOverlay_1.46.11001.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:19:46 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.XboxApp_48.49.31001.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:19:43 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Xbox.TCUI_1.23.28002.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:19:42 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.WindowsStore_11910.1002.5.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:19:39 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.WindowsSoundRecorder_10.1906.1972.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:19:37 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.WindowsMaps_5.1906.1972.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:19:32 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.WindowsFeedbackHub_1.1907.3152.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:19:29 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\microsoft.windowscommunicationsapps_16005.11629.20316.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:19:21 AM,Service Control Manager,7040,None,The start type of the Background Intelligent Transfer Service service was changed from demand start to auto start.
+Information,11/10/2025 5:19:19 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.WindowsCamera_2018.826.98.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:19:17 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.WindowsCalculator_10.1906.55.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:19:16 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.WindowsAlarms_10.1906.2182.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:19:13 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.Photos_2019.19071.12548.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:19:08 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.WebMediaExtensions_1.0.20875.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:19:07 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Wallet_2.4.18324.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:19:06 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.StorePurchaseApp_11811.1001.18.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:19:05 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.SkypeApp_14.53.77.0_x64__kzf8qxf38zg5c\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:19:00 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.ScreenSketch_10.1907.2471.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:58 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.People_10.1902.633.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:56 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Office.OneNote_16001.12026.20112.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:49 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.MSPaint_6.1907.29027.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:46 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.MixedReality.Portal_2000.19081.1301.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:44 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.MicrosoftStickyNotes_3.6.73.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:43 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.MicrosoftSolitaireCollection_4.4.8204.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:40 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.MicrosoftOfficeHub_18.1903.1152.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:38 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Microsoft3DViewer_6.1908.2042.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:33 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Getstarted_8.2.22942.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:32 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.GetHelp_10.1706.13331.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:31 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.DesktopAppInstaller_1.0.30251.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:29 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.BingWeather_4.25.20211.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:26 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Advertising.Xaml_10.1808.3.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:22 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.UI.Xaml.2.0_2.1810.18004.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:22 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\Windows\system32\Config\Elam was cleared updating 1 keys and creating 1 modified pages.
+Information,11/10/2025 5:18:22 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Services.Store.Engagement_10.0.18101.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:21 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Services.Store.Engagement_10.0.18101.0_x86__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:20 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.549981C3F5F10_1.1911.21713.0_x64__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:17 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Windows.PrintDialog_6.2.1.0_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:16 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\windows.immersivecontrolpanel_10.0.2.1000_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:16 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Windows.CBSPreview_10.0.19041.3636_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:15 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\NcsiUwpApp_1000.19041.3636.0_neutral_neutral_8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:15 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\MicrosoftWindows.UndockedDevKit_10.0.19041.3636_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:14 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\MicrosoftWindows.Client.CBS_1000.19053.1000.0_x64__cw5n1h2txyewy\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:14 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.XboxGameCallableUI_1000.19041.3636.0_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:13 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.XGpuEjectDialog_10.0.19041.3636_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:12 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.StartMenuExperienceHost_10.0.19041.3636_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:12 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.ShellExperienceHost_10.0.19041.3636_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:12 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.SecHealthUI_10.0.19041.3636_neutral__cw5n1h2txyewy\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:11 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.Search_1.14.10.19041_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:11 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.PinningConfirmationDialog_1000.19041.3636.0_neutral__cw5n1h2txyewy\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:10 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.PeopleExperienceHost_10.0.19041.3636_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:10 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.ParentalControls_1000.19041.3636.0_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:10 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.OOBENetworkConnectionFlow_10.0.19041.3636_neutral__cw5n1h2txyewy\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:09 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.OOBENetworkCaptivePortal_10.0.19041.3636_neutral__cw5n1h2txyewy\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:09 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.NarratorQuickStart_10.0.19041.3636_neutral_neutral_8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:08 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.ContentDeliveryManager_10.0.19041.3636_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:08 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.CloudExperienceHost_10.0.19041.3636_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:08 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.CapturePicker_10.0.19041.3636_neutral__cw5n1h2txyewy\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:07 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.CallingShellApp_1000.19041.3636.0_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:07 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.Apprep.ChxApp_1000.19041.3636.0_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:07 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Win32WebViewHost_10.0.19041.3636_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:06 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.LockApp_10.0.19041.3636_neutral__cw5n1h2txyewy\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:06 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.ECApp_10.0.19041.3636_neutral__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:05 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.CredDialogHost_10.0.19041.3636_neutral__cw5n1h2txyewy\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:05 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.BioEnrollment_10.0.19041.3636_neutral__cw5n1h2txyewy\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:05 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.AsyncTextService_10.0.19041.3636_neutral__8wekyb3d8bbwe\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:04 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.AccountsControl_10.0.19041.3636_neutral__cw5n1h2txyewy\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:04 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.AAD.BrokerPlugin_1000.19041.3636.0_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:03 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE_10.0.19041.3636_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:03 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\E2A4F912-2574-4A75-9BB0-0D023378592B_10.0.19041.3636_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:03 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\c5e2524a-ea46-4f67-841f-6a9465d9d515_10.0.19041.3636_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:18:02 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \??\C:\ProgramData\Microsoft\Windows\AppRepository\Packages\1527c705-839a-4832-9118-54d4Bd6a0c89_10.0.19041.3636_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat was cleared updating 0 keys and creating 0 modified pages.
+Information,11/10/2025 5:17:55 AM,Service Control Manager,7045,None,"A service was installed in the system.
+
+Service Name:  Intel(R) PRO/1000 NDIS 6 Adapter Driver
+Service File Name:  \SystemRoot\System32\drivers\E1G6032E.sys
+Service Type:  kernel mode driver
+Service Start Type:  demand start
+Service Account:  "
+Information,11/10/2025 5:17:54 AM,Service Control Manager,7026,None,"The following boot-start or system-start driver(s) did not load: 
+dam"
+Information,11/10/2025 5:17:55 AM,Workstation,3261,None,This computer has been successfully joined to workgroup 'WORKGROUP'.
+Error,11/10/2025 5:17:46 AM,Service Control Manager,7023,None,"The netprofm service terminated with the following error: 
+The device is not ready."
+Information,11/10/2025 5:17:45 AM,Microsoft-Windows-DHCPv6-Client,51046,Service State Event,DHCPv6 client service is started
+Information,11/10/2025 5:17:45 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'bindflt' (10.0, ‎2016‎-‎11‎-‎30T18:47:51.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,11/10/2025 5:17:45 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'storqosflt' (10.0, ‎2007‎-‎04‎-‎09T10:08:30.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,11/10/2025 5:17:45 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'CldFlt' (10.0, ‎2084‎-‎11‎-‎24T23:15:59.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,11/10/2025 5:17:45 AM,Microsoft-Windows-FilterManager,1,None,"File System Filter 'CldFlt' (Version 10.0, ‎2084‎-‎11‎-‎24T23:15:59.000000000Z) unloaded successfully."
+Information,11/10/2025 5:17:45 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'CldFlt' (10.0, ‎2084‎-‎11‎-‎24T23:15:59.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,11/10/2025 5:17:45 AM,Microsoft-Windows-Dhcp-Client,50103,Service State Event,DHCPv4 client registered for shutdown notification
+Information,11/10/2025 5:17:45 AM,Microsoft-Windows-Dhcp-Client,50036,Service State Event,DHCPv4 client service is started
+Information,11/10/2025 5:17:45 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'wcifs' (10.0, ‎2004‎-‎03‎-‎22T09:56:15.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,11/10/2025 5:17:45 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'luafv' (10.0, ‎2062‎-‎02‎-‎02T19:11:58.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,11/10/2025 5:17:43 AM,Microsoft-Windows-Kernel-General,16,None,The access history in hive \SystemRoot\System32\Config\BBI was cleared updating 1 keys and creating 1 modified pages.
+Information,11/10/2025 5:17:42 AM,Microsoft-Windows-Directory-Services-SAM,16977,None,"The domain is configured with the following minimum password length-related settings.
+
+MinimumPasswordLength: 0
+
+RelaxMinimumPasswordLengthLimits: 0
+
+MinimumPasswordLengthAudit: -1
+
+For more information see https://go.microsoft.com/fwlink/?LinkId=2097191.
+"
+Information,11/10/2025 5:17:26 AM,Microsoft-Windows-Directory-Services-SAM,16983,None,"The security account manager is now logging periodic summary events for remote clients that call legacy password change or set RPC methods.
+
+For more information please see https://go.microsoft.com/fwlink/?linkid=2150956.
+"
+Information,11/10/2025 5:17:26 AM,Microsoft-Windows-Directory-Services-SAM,16977,None,"The domain is configured with the following minimum password length-related settings.
+
+MinimumPasswordLength: 0
+
+RelaxMinimumPasswordLengthLimits: 0
+
+MinimumPasswordLengthAudit: -1
+
+For more information see https://go.microsoft.com/fwlink/?LinkId=2097191.
+"
+Information,11/10/2025 5:17:26 AM,Microsoft-Windows-Directory-Services-SAM,16962,None,"Remote calls to the SAM database are being restricted using the default security descriptor: O:SYG:SYD:(A;;RC;;;BA).
+For more information please see http://go.microsoft.com/fwlink/?LinkId=787651."
+Information,11/10/2025 5:17:25 AM,Microsoft-Windows-Wininit,14,None,"Credential Guard configuration: 0x0, 0"
+Information,11/10/2025 5:17:23 AM,Microsoft-Windows-Kernel-General,24,(11),The time zone information was refreshed with exit reason 0. Current time zone bias is 480.
+Information,11/10/2025 5:17:21 AM,Microsoft-Windows-Kernel-Power,521,(220),Active battery count change.
+Information,11/10/2025 5:17:21 AM,Microsoft-Windows-Kernel-Processor-Power,55,(47),"Processor 0 in group 0 exposes the following power management capabilities:
+
+Idle state type: ACPI Idle (C) States (1 state(s))
+
+Performance state type: None
+Nominal Frequency (MHz): 2994
+Maximum performance percentage: 100
+Minimum performance percentage: 100
+Minimum throttle percentage: 100"
+Information,11/10/2025 5:17:21 AM,Microsoft-Windows-Kernel-Power,172,(203),"Connectivity state in standby: Disconnected, Reason: NIC compliance"
+Information,11/10/2025 5:17:21 AM,Microsoft-Windows-Ntfs,98,None,Volume \\?\Volume{8cf873f0-0000-0000-0000-100000000000} (\Device\HarddiskVolume1) is healthy.  No action is needed.
+Information,11/10/2025 5:17:21 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'npsvctrig' (10.0, ‎2025‎-‎01‎-‎05T18:41:12.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,11/10/2025 5:17:20 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'FileCrypt' (10.0, ‎2002‎-‎03‎-‎01T03:12:42.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,11/10/2025 5:17:20 AM,Microsoft-Windows-Ntfs,98,None,Volume C: (\Device\HarddiskVolume2) is healthy.  No action is needed.
+Information,11/10/2025 5:17:20 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'WdFilter' (10.0, ‎2066‎-‎04‎-‎08T20:52:09.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,11/10/2025 5:17:20 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'Wof' (10.0, ‎2090‎-‎03‎-‎16T10:56:17.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,11/10/2025 5:17:20 AM,Microsoft-Windows-FilterManager,6,None,"File System Filter 'FileInfo' (10.0, ‎2062‎-‎12‎-‎22T21:21:06.000000000Z) has successfully loaded and registered with Filter Manager."
+Information,11/10/2025 5:17:18 AM,Microsoft-Windows-HAL,16,None,The iommu fault reporting has been initialized.
+Information,11/10/2025 5:17:18 AM,Microsoft-Windows-Kernel-General,20,(6),"The leap second configuration has been updated.
+Reason: Leap second data initialized from registry during boot
+Leap seconds enabled: true
+New leap second count: 0
+Old leap second count: 0"
+Information,11/10/2025 5:17:18 AM,Microsoft-Windows-Kernel-Boot,32,(58),The bootmgr spent 0 ms waiting for user input.
+Information,11/10/2025 5:17:18 AM,Microsoft-Windows-Kernel-Boot,18,(57),There are 0x1 boot options on this system.
+Information,11/10/2025 5:17:18 AM,Microsoft-Windows-Kernel-Boot,27,(33),The boot type was 0x0.
+Information,11/10/2025 5:17:18 AM,Microsoft-Windows-Kernel-Boot,25,(32),The boot menu policy was 0x1.
+Information,11/10/2025 5:17:18 AM,Microsoft-Windows-Kernel-Boot,153,(62),Virtualization-based security (policies: 0) is disabled.
+Information,11/10/2025 5:17:18 AM,Microsoft-Windows-Kernel-General,12,(1),The operating system started at system time ‎2025‎-‎11‎-‎09T23:47:18.611784400Z.
+Information,11/10/2025 5:17:44 AM,EventLog,6005,None,The Event log service was started.
+Information,11/10/2025 5:17:44 AM,EventLog,6009,None,Microsoft (R) Windows (R) 10.00. 19045  Multiprocessor Free.

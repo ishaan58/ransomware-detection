@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: ransomware-detector-backend
+    env: python
+    plan: free
+    buildCommand: pip install -r webapp/backend/requirements.txt
+    startCommand: gunicorn -k gevent -w 2 app:app
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9

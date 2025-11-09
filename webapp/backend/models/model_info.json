@@ -1,0 +1,12 @@
+{
+  "timestamp": "20251010_172122",
+  "train_files": [
+    "keshav_logs.csv",
+    "synth_if_part2.csv",
+    "tanay_logs.csv",
+    "x.csv"
+  ],
+  "rows": 245085,
+  "features": 516,
+  "contamination": 0.02
+}

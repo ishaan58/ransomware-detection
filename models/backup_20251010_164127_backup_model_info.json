@@ -1,0 +1,19 @@
+{
+  "trained_on": [
+    "keshav_logs.csv",
+    "sample.csv",
+    "tanay_logs.csv",
+    "train_a.csv",
+    "train_b.csv",
+    "train_big.csv",
+    "train_c.csv",
+    "train_d.csv",
+    "train_part1.csv",
+    "x.csv"
+  ],
+  "timestamp": "20251010_161521",
+  "hasher_features": 256,
+  "pca_components": 20,
+  "n_estimators": 400,
+  "contamination": 0.02
+}

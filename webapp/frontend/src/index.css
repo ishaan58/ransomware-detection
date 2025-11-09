@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-black text-gray-200 font-mono;
+  background: radial-gradient(circle at 20% 20%, #0f0f0f, #000);
+  overflow-x: hidden;
+}
+
+h1, h2, h3 {
+  @apply text-green-400 tracking-wide;
+}
+
+button {
+  @apply transition-all duration-300 ease-in-out;
+}
+
+.glow {
+  text-shadow: 0 0 8px #00ffcc, 0 0 16px #00ffcc;
+}
+
+.card {
+  @apply bg-[#0a0a0a] border border-gray-800 rounded-lg p-6 shadow-xl;
+  box-shadow: 0 0 20px rgba(0, 255, 128, 0.08);
+  transition: all 0.3s ease;
+}
+
+.card:hover {
+  box-shadow: 0 0 30px rgba(0, 255, 128, 0.15);
+}
+
+.matrix-bg {
+  background-image: radial-gradient(circle at 50% 50%, #0d0d0d, #000);
+}
