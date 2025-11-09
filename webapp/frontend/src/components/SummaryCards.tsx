@@ -1,4 +1,4 @@
-import React from "react";
+
 
 interface SummaryData {
   total_records: number;

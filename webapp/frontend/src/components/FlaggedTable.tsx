@@ -1,4 +1,4 @@
-import React from "react";
+
 
 const FlaggedTable = ({ flagged }: { flagged: any[] }) => {
   if (!flagged || flagged.length === 0) {

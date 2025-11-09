@@ -1,4 +1,4 @@
-import React from "react";
+
 
 const SystemHealth = ({ summary }: { summary: any }) => {
   const total = summary.total_records || 1;
