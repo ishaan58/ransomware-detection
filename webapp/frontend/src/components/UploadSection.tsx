@@ -22,7 +22,7 @@ const UploadSection: React.FC<Props> = ({ onUpload, setLoading }) => {
     setError(null);
 
     try {
-      const res = await axios.post("http://127.0.0.1:5000/api/upload", formData, {
+      const res = await axios.post("https://ransomware-backend-1si8.onrender.com/api/upload", formData, {
         headers: { "Content-Type": "multipart/form-data" },
       });
       onUpload(res.data);
